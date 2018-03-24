@@ -1,0 +1,18 @@
+{
+  "name": "excelptional",
+  "version": "1.0.0",
+  "description": "A toolchain based off of a fork of SheetJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "excel",
+    "style"
+  ],
+  "author": "Ceej Walker",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx-style": "^0.8.13"
+  }
+}
