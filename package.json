@@ -2,7 +2,7 @@
   "name": "excelptional",
   "version": "1.0.0",
   "description": "A toolchain based off of a fork of SheetJS",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,5 +14,14 @@
   "license": "ISC",
   "dependencies": {
     "xlsx-style": "^0.8.13"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceejwalker/excelptional.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ceejwalker/excelptional/issues"
+  },
+  "homepage": "https://github.com/ceejwalker/excelptional#readme"
 }
