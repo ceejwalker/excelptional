@@ -5,6 +5,9 @@
 
 const excel = (function() {
 
+  //Dependencies
+  const xl = require("./node_modules/xlsx-style/dist/xlsx.full.min.js");
+
   function read() {
     console.log("Success!")
   }
